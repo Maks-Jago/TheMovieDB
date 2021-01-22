@@ -4,7 +4,7 @@
 https://developers.themoviedb.org
 
 1) Login screen - https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id<br>
-Простой экран с полями ввода и кнопкой 'Login'
+Простой экран с полями ввода и кнопкой 'Login'. Поля ввода предзаполняем кредами, основная задача организовать навигацию между экраном логина и основным экраном с фильмами
 
 2) Popular movies - https://developers.themoviedb.org/3/movies/get-popular-movies
 <img src="popular_movies.png" height="779" width="452" />
